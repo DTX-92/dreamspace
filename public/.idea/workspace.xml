@@ -1,139 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20a1bb02-3034-4184-827e-12528741f5af" name="Default" comment=".">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/register/register.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/shared/models/user.ts" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/aot/src/notification.component.ngfactory.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/aot/src/notification.component.ngfactory.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/aot/src/notification.component.ngfactory.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/aot/src/push-notifications.module.ngfactory.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/aot/src/push-notifications.module.ngfactory.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/aot/src/push-notifications.module.ngfactory.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/aot/src/simple-notifications.component.ngfactory.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/aot/src/simple-notifications.component.ngfactory.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/aot/src/simple-notifications.component.ngfactory.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/aot/src/simple-notifications.module.ngfactory.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/aot/src/simple-notifications.module.ngfactory.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/aot/src/simple-notifications.module.ngfactory.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/components.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/components.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/components.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/components.metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/components.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/icons.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/icons.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/icons.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/max.pipe.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/max.pipe.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/max.pipe.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/notification-event.type.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/notification-event.type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/notification-event.type.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/notification-type.type.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/notification-type.type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/notification-type.type.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/notification.component.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/notification.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/notification.component.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/notification.type.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/notification.type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/notification.type.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/notifications.service.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/notifications.service.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/notifications.service.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/options.type.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/options.type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/options.type.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/push-notification.type.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/push-notification.type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/push-notification.type.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/push-notifications.module.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/push-notifications.module.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/push-notifications.module.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/push-notifications.service.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/push-notifications.service.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/push-notifications.service.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/simple-notifications.component.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/simple-notifications.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/simple-notifications.component.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/simple-notifications.module.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/simple-notifications.module.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/lib/simple-notifications.module.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/icons.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/icons.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/icons.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/icons.metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/icons.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/max.pipe.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/max.pipe.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/max.pipe.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/max.pipe.metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/max.pipe.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notification-event.type.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notification-event.type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notification-event.type.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notification-event.type.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notification-type.type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notification-type.type.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notification-type.type.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notification.component.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notification.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notification.component.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notification.component.metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notification.component.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notification.type.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notification.type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notification.type.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notification.type.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notifications.service.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notifications.service.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notifications.service.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notifications.service.metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/notifications.service.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/options.type.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/options.type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/options.type.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/options.type.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/push-notification.type.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/push-notification.type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/push-notification.type.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/push-notification.type.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/push-notifications.module.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/push-notifications.module.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/push-notifications.module.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/push-notifications.module.metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/push-notifications.module.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/push-notifications.service.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/push-notifications.service.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/push-notifications.service.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/push-notifications.service.metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/push-notifications.service.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/simple-notifications.component.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/simple-notifications.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/simple-notifications.component.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/simple-notifications.component.metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/simple-notifications.component.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/simple-notifications.module.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/simple-notifications.module.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/simple-notifications.module.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/simple-notifications.module.metadata.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/src/simple-notifications.module.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/angular2-notifications/tsconfig.aot.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app.component.js" afterPath="$PROJECT_DIR$/src/app.component.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app.component.js.map" afterPath="$PROJECT_DIR$/src/app.component.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app.component.ts" afterPath="$PROJECT_DIR$/src/app.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app.module.js" afterPath="$PROJECT_DIR$/src/app.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app.module.js.map" afterPath="$PROJECT_DIR$/src/app.module.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app.module.ts" afterPath="$PROJECT_DIR$/src/app.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/systemjs.config.js" afterPath="$PROJECT_DIR$/systemjs.config.js" />
-    </list>
+    <list default="true" id="20a1bb02-3034-4184-827e-12528741f5af" name="Default" comment="." />
     <ignored path="public.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -260,6 +128,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NamedScopeManager">
+    <scope name="hide js/js.map" pattern="!file[public]:src//*.js*" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -277,7 +148,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="hide js/js.map" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -366,7 +237,60 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="hide js/js.map">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="public">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="public">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="public">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="public">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="src">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -464,18 +388,18 @@
       <workItem from="1479476691826" duration="51000" />
       <workItem from="1479476762640" duration="6989000" />
       <workItem from="1480328624344" duration="5986000" />
-      <workItem from="1480670285241" duration="3544000" />
+      <workItem from="1480670285241" duration="4467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18295000" />
+    <option name="totallyTimeSpent" value="19218000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18229167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18229167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -926,5 +850,24 @@
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>hide js/js.map</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="hide js/js.map" />
+          </order>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
